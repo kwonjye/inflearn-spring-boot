@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7366098d-2cfa-45e7-b4f7-3b162a7258c4" name="변경" comment="[6/자동 구성(Auto Configuration)] 순수 라이브러리 사용하기1" />
+    <list default="true" id="7366098d-2cfa-45e7-b4f7-3b162a7258c4" name="변경" comment="[6/자동 구성(Auto Configuration)] 순수 라이브러리 사용하기1">
+      <change afterPath="$PROJECT_DIR$/../project-v1/libs/memory-v1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-v1/src/main/java/hello/config/MemoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-v1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../project-v1/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,6 +157,7 @@
       <updated>1749636767909</updated>
       <workItem from="1749636769144" duration="565000" />
       <workItem from="1749637344256" duration="135000" />
+      <workItem from="1749637795785" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="[6/자동 구성(Auto Configuration)] 순수 라이브러리 만들기">
       <option name="closed" value="true" />
