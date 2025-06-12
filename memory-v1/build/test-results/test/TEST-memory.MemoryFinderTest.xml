@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-11T10:23:31" hostname="JYE" time="0.07">
+<testsuite name="memory.MemoryFinderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-12T10:51:25" hostname="JYE" time="0.101">
   <properties/>
-  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.07"/>
+  <testcase name="get()" classname="memory.MemoryFinderTest" time="0.101"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
