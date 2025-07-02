@@ -2,6 +2,10 @@ management:
   endpoint:
     shutdown:
       enabled: true
+    health:
+      show-components: always
+#      show-details: always
+
   endpoints:
     web:
       exposure:
